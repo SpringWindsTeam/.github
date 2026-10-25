@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="logo.svg" width="120" alt="사랑방 로고">
 
 # 춘풍팀 · Team Chunpung (SpringWindsTeam)
 
