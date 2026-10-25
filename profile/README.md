@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.svg" width="120" alt="사랑방 로고">
+
 # 춘풍팀 · Team Chunpung (SpringWindsTeam)
 
 **한국어 여론·사회 시뮬레이션을 위한 오픈소스와 데이터**
